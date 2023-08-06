@@ -1,1 +1,1 @@
-# ApiAuth
+Este projeto é um exemplo simples de autenticação de login usando JSON Web Tokens (JWT) em um aplicativo C# ASP.NET MVC. O objetivo é fornecer uma estrutura básica para a implementação de autenticação e controle de acesso em um sistema web.
